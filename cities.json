@@ -1,0 +1,45 @@
+{
+  "states": [
+    { 
+      "id": 1,
+      "nombre": "Quindio",
+      "municipios": [
+        {
+          "name": "calarca",
+          "lat": 1,
+          "log": 2,
+          "tipo": "sin cobertura",
+          "horario": "lunes a sabado"
+        },
+        {
+          "name": "calarca",
+          "lat": 1,
+          "log": 2,
+          "tipo": "sin cobertura",
+          "horario": "lunes a sabado"
+        }        
+      ]
+
+    },
+    { 
+      "id": 2,
+      "nombre": "Antioquia",
+      "municipios": [
+        {
+          "name": "calarca",
+          "lat": 1,
+          "log": 2,
+          "tipo": "sin cobertura",
+          "horario": "lunes a sabado"
+        },
+        {
+          "name": "calarca",
+          "lat": 1,
+          "log": 2,
+          "tipo": "sin cobertura",
+          "horario": "lunes a sabado"
+        }        
+      ]
+    }
+  ]
+}
